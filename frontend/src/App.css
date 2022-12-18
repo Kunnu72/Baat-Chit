@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+@supports ((-webkit-backdrop-filter: none) or (backdrop-filter: none)){
+.App {
+  /* background-color:#f9fafd; */
+  background-color:  rgba(47,120,206,0.1);
+   backdrop-filter: blur(10px);
+ /* -webkit-backdrop-filter: blur(10px); */
+  min-height: 100vh;
+  display: flex;
+  background-size: cover;
+  background-position: center;
+   /* background-image: url("images/backgnd8.avif");  */
+  /* color: black; */
+  
+}
+}
